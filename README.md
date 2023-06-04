@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on blockchain super-app
-- 🌱 I’m currently learning Generative AIs
+- 🔭 I’m currently working on a blockchain super-app
+- 🌱 I’m currently learning User-centric Generative AIs
 - 👯 I’m looking to collaborate on Mobile Apps
 - 💬 Ask me about code architecture, clean code, apps performance
 - 📫 How to reach me: hamzakhurshid97@gmail.com
