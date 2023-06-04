@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a blockchain super-app
 - 🌱 I’m currently learning User-centric Generative AIs
+- 💻 I am working on Flutter, Dart, Kotlin, Swift, Python, Blockchain, Firebase, Node.JS, & MongoDB
 - 👯 I’m looking to collaborate on Mobile Apps
 - 💬 Ask me about code architecture, clean code, apps performance
 - 📫 How to reach me: hamzakhurshid97@gmail.com
